@@ -27,6 +27,12 @@
 </p> 
 <h5><code>~ $ ls projects/</code></h5>
 <p>
+<b><a href="https://github.com/Bhavyaveer44/FinScope">FinScope</a></b> : Autonomous equity-research agent with a plan, tool-use, critique and revise loop<br><br>
+<b><a href="https://github.com/Bhavyaveer44/hybrag">Hybrag</a></b> : Hybrid RAG benchmarked end-to-end with RAGAS<br><br>
+<b><a href="https://github.com/Bhavyaveer44/rattafy">Rattafy</a></b> : AI exam-prep app with vision-OCR fallback and multi-provider LLM rotation<br><br>
+<b><a href="https://github.com/Bhavyaveer44/lockin">Lockin</a></b> : Privacy-first deep-work coach running MediaPipe vision fully in-browser, with Groq daily debriefs<br><br>
+<b><a href="https://github.com/Bhavyaveer44/vit-pyq-insight">VIT PYQ Insight</a></b> : Agentic RAG over exam papers using LangGraph, ChromaDB and local Ollama models<br><br>
+<b><a href="https://github.com/Bhavyaveer44/ai-job-tracker">AI Job Tracker</a></b> : Job-application Kanban with LLM JD extraction, ATS scoring and an agentic resume-rewrite loop<br><br>
 <b><a href="https://github.com/Bhavyaveer44/kvd">kvd</a></b> : Redis-compatible key-value store in Go with WAL and sharded locking<br><br>
 <b><a href="https://github.com/Bhavyaveer44/Collby">Collby</a></b> : Real-time collaborative editor with a hand-rolled CRDT<br><br>
 </p>
