@@ -1,10 +1,4 @@
 <div align="center"> 
-  <p>
-    <picture> 
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=bhavyaveer44&theme=github-dark&style=terminal&label=Bhavyaveer&mode=light" /> 
-      <img src="https://www.gitskins.com/api/section/wordmark?username=bhavyaveer44&theme=github-dark&style=terminal&label=Bhavyaveer&mode=dark" width="80%" alt="bhavyaveer44 wordmark" /> 
-    </picture>
-  </p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -34,7 +28,7 @@
 <br>
 
 <div>
-  <h3><code>~ $ ls projects/</code></h3>
+  <h3><code>Projects:</code></h3>
   <p>
     <b><a href="https://github.com/Bhavyaveer44/FinScope">FinScope</a></b> : Autonomous equity-research agent with a plan, tool-use, critique and revise loop<br><br>
     <b><a href="https://github.com/Bhavyaveer44/hybrag">Hybrag</a></b> : Hybrid RAG benchmarked end-to-end with RAGAS<br><br>
